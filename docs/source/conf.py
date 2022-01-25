@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'my_first_complete_repo'
+project = 'my_first_completet_repo'
 copyright = '2022, Andreas Foth'
 author = 'Andreas Foth'
 
@@ -39,7 +39,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 
 # -- Options for HTML output -------------------------------------------------
