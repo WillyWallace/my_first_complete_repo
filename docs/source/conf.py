@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'my_first_completet_repo'
+project = 'my_first_complete_repo'
 copyright = '2022, Andreas Foth'
 author = 'Andreas Foth'
 
