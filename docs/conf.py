@@ -28,6 +28,7 @@ author = 'Andreas Foth'
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 
+version = ''
 
 # -- General configuration ---------------------------------------------------
 
