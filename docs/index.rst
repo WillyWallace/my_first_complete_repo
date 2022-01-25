@@ -11,6 +11,7 @@ Welcome to my_first_complete_repo's documentation!
    :caption: Contents:
 
 .. automodule:: calc
+   :members:
 
 Indices and tables
 ==================
