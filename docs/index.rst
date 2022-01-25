@@ -10,7 +10,7 @@ Welcome to my_first_complete_repo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: calc.py
+.. automodule:: calc
 
 Indices and tables
 ==================
