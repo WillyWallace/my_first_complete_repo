@@ -19,7 +19,7 @@ def calculate_something(x):
 
     """
 
-    y = x^^2
+    y = x*2
     return y
 
 def some_string_output(x):
