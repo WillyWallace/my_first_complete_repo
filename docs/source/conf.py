@@ -44,15 +44,15 @@ extensions = [
 ]
 
 autoapi_type = 'python'
-# autoapi_dirs = [
-#     '../../src/pamtra2',
+autoapi_dirs = [
+    '../../code',
 #     '../../libs/meteo_si/meteo_si',
 #     '../../libs/pamgasabs/pamgasabs',
 #     '../../libs/pyPamtraRadarMoments/pyPamtraRadarMoments',
 #     '../../libs/pyPamtraRadarSimulator/pyPamtraRadarSimulator',
 #     '../../libs/refractiveIndex/refractiveIndex',
 #     '../../libs/singleScattering/singleScattering',
-# ]
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
