@@ -7,8 +7,8 @@ Welcome to my_first_complete_repo's documentation!
 ==================================================
 
 .. toctree::
-   :numbered:
-   :glob:
+   :maxdepth: 1
+   :caption: Contents:
 
 
 
