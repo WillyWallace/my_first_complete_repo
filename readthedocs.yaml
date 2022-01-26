@@ -17,5 +17,5 @@ python:
 submodules:
    include: all
 
-# sphinx:
-#    configuration: docs/conf.py
+sphinx:
+   configuration: docs/source/conf.py
