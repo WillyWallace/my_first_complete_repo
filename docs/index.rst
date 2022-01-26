@@ -10,9 +10,6 @@ Welcome to my_first_complete_repo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: code.calc
-   :members:
-
 Indices and tables
 ==================
 
