@@ -14,3 +14,4 @@ other commands for the sphinx workflow
 ```shell
 sphinx-quickstart docs
 ```
+and then answer the first question with 'no', leading to separated wource and build folders.
